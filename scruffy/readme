@@ -1,0 +1,4 @@
+install imagemagick (I used homebrew package system)
+gem install rmagick
+gem install scruffy
+
