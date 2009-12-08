@@ -1,0 +1,5 @@
+I install gnuplot using homebrew http://github.com/mxcl/homebrew
+
+There are ruby bindings to gnuplot (http://rgplot.rubyforge.org/ for
+example), but sometimes it's easier to use IO.popen to pipe commands
+directly to gnuplot.
