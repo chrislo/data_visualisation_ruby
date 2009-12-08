@@ -1,0 +1,5 @@
+You'll need to install R first (http://www.r-project.org/)
+
+Then install the rsruby bindings. At the moment, this only seems to
+work by checking out the code from github and building yourself
+(i.e. not using the rubygem). http://github.com/alexgutteridge/rsruby
