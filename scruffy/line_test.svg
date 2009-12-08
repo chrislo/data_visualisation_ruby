@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="600 100 360 200">
+  <g id="scruffy_graph">
+    <g id="background" transform="translate(0.0, 0.0)">
+      <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" id="BackgroundGradient" y2="100%">
+          <stop stop-color="black" offset="5%"/>
+          <stop stop-color="#4A465A" offset="95%"/>
+        </linearGradient>
+      </defs>
+      <rect y="0" width="600.0" height="360.0" fill="url(#BackgroundGradient)" x="0"/>
+    </g>
+    <g id="title" transform="translate(30.0, 7.2)">
+      <text y="25.2" class="title" font-size="25.2" text-anchor="middle" font-family="" stroke-width="0" fill="white" x="270.0" stroke="none">Sample Line Graph</text>
+    </g>
+    <g id="view" transform="translate(12.0, 93.6)">
+      <g>
+        <g id="values" transform="translate(0.0, 4.752)">
+          <text y="211.464" font-size="16.91712" text-anchor="end" font-family="" fill="white" x="96.12">7</text>
+          <text y="158.598" font-size="16.91712" text-anchor="end" font-family="" fill="white" x="96.12">32</text>
+          <text y="105.732" font-size="16.91712" text-anchor="end" font-family="" fill="white" x="96.12">57</text>
+          <text y="52.866" font-size="16.91712" text-anchor="end" font-family="" fill="white" x="96.12">81</text>
+          <text y="0.0" font-size="16.91712" text-anchor="end" font-family="" fill="white" x="96.12">106</text>
+        </g>
+        <g id="grid" transform="translate(106.8, 0.0)">
+          <line x1="0" y1="0.0" style="stroke: white; stroke-width: 2;" x2="427.2" y2="0.0"/>
+          <line x1="0" y1="52.866" style="stroke: white; stroke-width: 2;" x2="427.2" y2="52.866"/>
+          <line x1="0" y1="105.732" style="stroke: white; stroke-width: 2;" x2="427.2" y2="105.732"/>
+          <line x1="0" y1="158.598" style="stroke: white; stroke-width: 2;" x2="427.2" y2="158.598"/>
+          <line x1="0" y1="211.464" style="stroke: white; stroke-width: 2;" x2="427.2" y2="211.464"/>
+        </g>
+        <g id="labels" transform="translate(106.8, 218.592)">
+        </g>
+        <g id="graphs" transform="translate(106.8, 0.0)">
+          <g class="graph_layer" id="component_graphs_graph_0">
+            <g class="shadow" transform="translate(1.05732, 1.05732)">
+              <polyline points="0.0,183.881739130435 106.8,12.8289585439838 213.6,76.973751263903 320.4,162.500141557128 427.2,0.0" style="fill-opacity: 0; stroke-opacity: 0.35" stroke-width="4.22928" fill="transparent" stroke="black"/>
+              <circle cx="0.0" cy="185.784915130435" r="4.22928" style="stroke-width: 4.22928; stroke: black; opacity: 0.35;"/>
+              <circle cx="106.8" cy="14.7321345439838" r="4.22928" style="stroke-width: 4.22928; stroke: black; opacity: 0.35;"/>
+              <circle cx="213.6" cy="78.876927263903" r="4.22928" style="stroke-width: 4.22928; stroke: black; opacity: 0.35;"/>
+              <circle cx="320.4" cy="164.403317557128" r="4.22928" style="stroke-width: 4.22928; stroke: black; opacity: 0.35;"/>
+              <circle cx="427.2" cy="1.903176" r="4.22928" style="stroke-width: 4.22928; stroke: black; opacity: 0.35;"/>
+            </g>
+            <polyline points="0.0,183.881739130435 106.8,12.8289585439838 213.6,76.973751263903 320.4,162.500141557128 427.2,0.0" stroke-width="4.22928" fill="none" stroke="#6886B4"/>
+            <circle cx="0.0" cy="183.881739130435" r="4.22928" style="stroke-width: 4.22928; stroke: #6886B4; fill: #6886B4"/>
+            <circle cx="106.8" cy="12.8289585439838" r="4.22928" style="stroke-width: 4.22928; stroke: #6886B4; fill: #6886B4"/>
+            <circle cx="213.6" cy="76.973751263903" r="4.22928" style="stroke-width: 4.22928; stroke: #6886B4; fill: #6886B4"/>
+            <circle cx="320.4" cy="162.500141557128" r="4.22928" style="stroke-width: 4.22928; stroke: #6886B4; fill: #6886B4"/>
+            <circle cx="427.2" cy="0.0" r="4.22928" style="stroke-width: 4.22928; stroke: #6886B4; fill: #6886B4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="legend" transform="translate(30.0, 46.8)">
+      <rect y="0" width="10.8" height="10.8" fill="#6886B4" x="226.8"/>
+      <text y="11.664" font-size="15.552" style="color: white" font-family="" fill="white" x="246.24">Example</text>
+    </g>
+  </g>
+</svg>
