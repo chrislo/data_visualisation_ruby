@@ -1,0 +1,5 @@
+jFreeChart is a Java library for producing plots. As such, we can
+access it through jruby. 
+
+For this example you'll need to install jruby, and add the jcommon and
+jfreechart jars to your CLASSPATH. 
