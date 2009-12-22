@@ -22,6 +22,16 @@ conference](http://http://rubymanor.org/) in London in December
 (slides.pdf), and a link to the video will be included when it is
 released.
 
+What about Javascript?
+----------------------
+
+If you're in the market for a charting/plotting library to use on your
+rails website, you may prefer a javascript library instead of a
+ruby-based server-side solution. Roberto Bicchierai has [written up a
+good
+comparison](http://roberto.open-lab.com/2009/12/21/javascript-charting-tools-an-overview/)
+of the available libraries. 
+
 Contributing
 ------------
 
